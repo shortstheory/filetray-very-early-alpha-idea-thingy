@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/imageIcons">
+        <file>save.png</file>
+        <file>Add.png</file>
+        <file>edit-cut.png</file>
+        <file>index.png</file>
+        <file>indexcopy.png</file>
+        <file>delete-2.png</file>
+    </qresource>
+</RCC>
